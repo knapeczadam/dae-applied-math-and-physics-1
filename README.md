@@ -73,8 +73,3 @@ As they say — *no vectors, no vertex transformations!* 🚀
 
 ### ⚖️ License
 Licensed under the **MIT License** — feel free to study, adapt, or fork the GeoGebra setups for learning purposes.  
-
----
-
-*Made with logic, vectors, and just enough caffeine ☕  
-— Ádám*
